@@ -63,7 +63,6 @@ body {
 .top-menu {
 }
 .a-linck {
-    text-transform: uppercase;
     font-size: 18px;
     color: #000000;
     margin-right: 40px;
@@ -76,11 +75,7 @@ body {
 .a-linck a {
     color: black;
 }
-.a-linck a:hover {
-    color: rgb(245, 12, 12);
-    
-    transition: 0.5s all
-}
+
 
 .img-contakt {
    
@@ -116,43 +111,16 @@ body {
    
     color: rgb(99 255 20);
     font: 700 35px/1 sans-serif;
-    
-    
-    
-    text-transform: uppercase;
-    text-shadow: 
-      -1px -1px 1px #111, 
-      2px 2px 1px #999;
-      transition: 2s all;
 
 }
-.contakt-1:hover a {
-color: red;
 
-position: relative;
-left: 2px;
-bottom: 2px;
-transition: 2s ;
-}
 .contakt-2 a {
   
   color: rgb(99 255 20);
   font: 700 35px/1 sans-serif;
   
- 
-  text-transform: uppercase;
-  text-shadow: 
-	-1px -1px 1px #111, 
-	2px 2px 1px #999;
-    transition: 2s all;
 }
-.contakt-2:hover a {
-    color: red;
-    position: relative;
-    left: 2px;
-    bottom: 2px;
-    transition: 2s ;
-    }
+
 .price-info {
     background-color: rgb(56 50 50 / 35%);
     font-size: 26px;
@@ -164,14 +132,7 @@ transition: 2s ;
     font-family: Arial, Helvetica, sans-serif;
     margin-top: 40px;
 }
-.price-info:hover {
-    color: #f50c0c; 
-    background-color:black;
-    font-size: 30px;
-    line-height: 40px;
-    transition: 3s ;
-    
-}
+
 .informat {
     padding-top: 50px;
    
